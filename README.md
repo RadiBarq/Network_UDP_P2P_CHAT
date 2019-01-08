@@ -1,5 +1,5 @@
 
-<h1>Network UDP P2P Chat/h1>
+<h1>Network UDP P2P Chat</h1>
 
 <h2>About The Project</h2>
 <p>This is project created for the Network 1 class at my university so that it's a simple peer to peer chat using UDP protocol
